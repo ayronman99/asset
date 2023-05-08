@@ -1,0 +1,57 @@
+[
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/javascript.png",
+    "title": "JavaScript",
+    "altText": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/typescript.png",
+    "title": "TypeScript",
+    "altText": "TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/css.png",
+    "title": "CSS",
+    "altText": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/html5.png",
+    "title": "HTML",
+    "altText": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/nodejs.png",
+    "title": "NodeJS",
+    "altText": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/react.png",
+    "title": "React",
+    "altText": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. "
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/sass.png",
+    "title": "SASS",
+    "altText": "Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. "
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/vue.svg",
+    "title": "VueJS",
+    "altText": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/bootstrap.png",
+    "title": "Bootstrap",
+    "altText": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/mui.svg",
+    "title": "MUI",
+    "altText": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/tailwind.svg",
+    "title": "TailWindCSS",
+    "altText": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables."
+  }
+]
