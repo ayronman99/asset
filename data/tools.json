@@ -7,6 +7,31 @@
   {
     "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/toolicons/github.png",
     "title": "GitHub",
-    "altText": "GitHub, Inc. is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project"
+    "altText": "GitHub, Inc. is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/toolicons/github.png",
+    "title": "Git",
+    "altText": "Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/toolicons/github.png",
+    "title": "Google",
+    "altText": "Google LLC is an American multinational technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, artificial intelligence, and consumer electronics."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/toolicons/github.png",
+    "title": "ChatGPT",
+    "altText": "ChatGPT is an artificial intelligence chatbot developed by OpenAI and released in November 2022. It is built on top of OpenAI's GPT-3.5 and GPT-4 foundational large language models and has been fine-tuned using both supervised and reinforcement learning techniques."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/toolicons/github.png",
+    "title": "Stack Overflow",
+    "altText": "Stack Overflow is a question and answer website for programmers. It is the flagship site of the Stack Exchange Network. It was created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on certain computer programming topics."
+  },
+  {
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/toolicons/github.png",
+    "title": "VSC",
+    "altText": "Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git."
   }
 ]
