@@ -50,7 +50,7 @@
     "altText": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design."
   },
   {
-    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/tailwind.svg",
+    "imgUrl": "https://raw.githubusercontent.com/ayronman99/asset/main/icons/skillicons/tailwind.png",
     "title": "TailWindCSS",
     "altText": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables."
   }
