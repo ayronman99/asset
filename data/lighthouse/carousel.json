@@ -1,0 +1,20 @@
+[
+  {
+    "heading": "Rent a house",
+    "imgUrl": "https://asset.cloudinary.com/dfahrc4rq/aa916889f98c08182cfdc519dd04b3b5",
+    "textDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At purus tellus arcu sit nibh consectetur.",
+    "btnText": "Rent now"
+  },
+  {
+    "heading": "Buy a house",
+    "imgUrl": "https://res.cloudinary.com/dfahrc4rq/image/upload/v1697847503/general/lighthouse/undraw_for_sale_re_egkk_eu9gqv.png",
+    "textDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At purus tellus arcu sit nibh consectetur.",
+    "btnText": "Buy now"
+  },
+  {
+    "heading": "Search Neighbor",
+    "imgUrl": "https://res.cloudinary.com/dfahrc4rq/image/upload/v1697847503/general/lighthouse/undraw_best_place_re_lne9_ko0kgn.png",
+    "textDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At purus tellus arcu sit nibh consectetur.",
+    "btnText": "Search"
+  }
+]

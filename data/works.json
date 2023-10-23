@@ -5,7 +5,7 @@
       "textDescription": "Simple Social-like networking site but... mostly for dogs. Utilizing react-query, MUI, and axios libraries and DummyAPI data from dummyapi.io.",
       "live": "https://ayronman99.github.io/tsn",
       "code": "https://github.com/ayronman99/tsn",
-      "tags": ["React-Query", "React", "TypeScipt", "MUI"]
+      "tags": ["React-Query", "React", "TypeScript", "MUI"]
     },
     {
       "title": "Typicode-blog",
@@ -13,7 +13,7 @@
       "textDescription": "quasi-CRUD bloggin app, using typicode data that let's you try out a feel for a real blog site.",
       "live": "https://typicode-blog.vercel.app/",
       "code": "https://github.com/ayronman99/typicode-blog",
-      "tags": ["React", "TypeScipt", "MUI", "Tailwind CSS"]
+      "tags": ["React", "TypeScript", "MUI", "Tailwind CSS"]
     },
     {
       "title": "Color Palette",
