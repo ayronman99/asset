@@ -1,18 +1,20 @@
 [
-    {
-      "heading": "Choose from a wide range of properties",
-      "imgUrl": "https://ayronman99.github.io/portfolio/static/media/tsn.86a23917c9a72042c888.png",
-      "textDescription": "Simple Social-like networking site but... mostly for dogs. Utilizing react-query, MUI, and axios libraries and DummyAPI data from dummyapi.io."
-    },
-    {
-      "heading": "Flexible terms and affordable prices",
-      "imgUrl": "https://ayronman99.github.io/portfolio/static/media/tsn.86a23917c9a72042c888.png",
-      "textDescription": "Simple Social-like networking site but... mostly for dogs. Utilizing react-query, MUI, and axios libraries and DummyAPI data from dummyapi.io."
-    },
-    {
-      "heading": "We make sure your house is a home",
-      "imgUrl": "https://ayronman99.github.io/portfolio/static/media/tsn.86a23917c9a72042c888.png",
-      "textDescription": "Simple Social-like networking site but... mostly for dogs. Utilizing react-query, MUI, and axios libraries and DummyAPI data from dummyapi.io."
-    }
-  ]
-  
+  {
+    "heading": "Choose from a wide range of properties",
+    "imgUrl": "https://images.pexels.com/photos/1642125/pexels-photo-1642125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "textDescription": "Simple Social-like networking site but... mostly for dogs. Utilizing react-query, MUI, and axios libraries and DummyAPI data from dummyapi.io.",
+    "altTxt": "Photo by The Lazy Artist Gallery"
+  },
+  {
+    "heading": "Flexible terms and affordable prices",
+    "imgUrl": "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "textDescription": "Simple Social-like networking site but... mostly for dogs. Utilizing react-query, MUI, and axios libraries and DummyAPI data from dummyapi.io.",
+    "altTxt": "Photo by Andrea Piacquadio"
+  },
+  {
+    "heading": "We make sure your house is a home",
+    "imgUrl": "https://images.pexels.com/photos/4246202/pexels-photo-4246202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "textDescription": "Simple Social-like networking site but... mostly for dogs. Utilizing react-query, MUI, and axios libraries and DummyAPI data from dummyapi.io.",
+    "altTxt": "Photo by Ketut Subiyanto"
+  }
+]
